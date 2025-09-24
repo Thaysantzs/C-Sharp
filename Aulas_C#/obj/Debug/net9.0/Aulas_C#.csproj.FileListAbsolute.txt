@@ -1,0 +1,14 @@
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\bin\Debug\net9.0\Aulas_C#.exe
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\bin\Debug\net9.0\Aulas_C#.deps.json
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\bin\Debug\net9.0\Aulas_C#.runtimeconfig.json
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\bin\Debug\net9.0\Aulas_C#.dll
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\bin\Debug\net9.0\Aulas_C#.pdb
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\obj\Debug\net9.0\Aulas_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\obj\Debug\net9.0\Aulas_C#.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\obj\Debug\net9.0\Aulas_C#.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\obj\Debug\net9.0\Aulas_C#.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\obj\Debug\net9.0\Aulas_C#.dll
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\obj\Debug\net9.0\refint\Aulas_C#.dll
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\obj\Debug\net9.0\Aulas_C#.pdb
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\obj\Debug\net9.0\Aulas_C#.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Desktop\programação\C-Sharp\Aulas_C#\obj\Debug\net9.0\ref\Aulas_C#.dll
